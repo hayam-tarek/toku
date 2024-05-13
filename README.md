@@ -8,6 +8,4 @@ Toku is a mobile application built with Flutter that helps users learn fundament
 - Streamlined Navigation: Easily switch between different learning categories using a well-designed navigation system.
 - Pronunciation Practice: Strengthen your grasp of Japanese pronunciation by listening to audio playback for each word or phrase.
 
-### Video
-
-[![Toku App](https://github.com/hayam-tarek/toku/assets/125991048/7bc8fe22-aae4-4122-b7b4-7619cb5b7747)](https://github.com/hayam-tarek/toku/assets/125991048/fdc908ca-41c5-41d5-ad2c-97a768f8b45f)
+[![Video](https://github.com/hayam-tarek/toku/assets/125991048/7bc8fe22-aae4-4122-b7b4-7619cb5b7747)](https://github.com/hayam-tarek/toku/assets/125991048/fdc908ca-41c5-41d5-ad2c-97a768f8b45f)
